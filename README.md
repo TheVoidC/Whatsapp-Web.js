@@ -2,7 +2,7 @@
     <br />
     <p>
         <a href="https://wwebjs.dev">
-            <img src="https://raw.githubusercontent.com/wwebjs/logos/main/4_Full%20Logo%20Lockup_Small/small_banner_blue.png" title="whatsapp-web.js" alt="WWebJS Website" width="500" />
+            <img src="https://wwebjs.dev/images/banner_green_green.png" title="whatsapp-web.js" alt="WWebJS Website" width="500" />
         </a>
     </p>
     <br />
